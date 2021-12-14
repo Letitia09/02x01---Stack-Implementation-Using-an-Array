@@ -1,9 +1,9 @@
 # 02x01---Stacks-Using-an-Array
 <b>Problem statement</b><br>
-<pre>
-Stack is a linear data structure which follows a particular order in which the operations are performed. We will be learning about LIFO (Last In First Out) Stacks.
-Your task is to implement the stack data structure using an array. Your implementation must include the following functions :
 
+<p>Stack is a linear data structure which follows a particular order in which the operations are performed. We will be learning about LIFO (Last In First Out) Stacks.
+Your task is to implement the stack data structure using an array. Your implementation must include the following functions :</p>
+<pre>
 NOTE:
 -All the functions must have an 0(1) running complexity.
 -You are not responsible for taking any input or output.
