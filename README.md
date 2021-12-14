@@ -28,7 +28,7 @@ NOTE:
 2
 4
 3
-</p>
+</pre>
 <br>
 <p>Sample Output 0</p>
 <pre>
