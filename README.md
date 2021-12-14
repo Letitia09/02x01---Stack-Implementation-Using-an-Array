@@ -1,4 +1,4 @@
-# 02x01---Stacks-Using-an-Array
+# 02x01---Stack-Implementation-Using-an-Array
 <b>Problem statement</b><br>
 
 <p>Stack is a linear data structure which follows a particular order in which the operations are performed. We will be learning about LIFO (Last In First Out) Stacks.
