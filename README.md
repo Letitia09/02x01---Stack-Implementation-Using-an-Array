@@ -11,6 +11,36 @@ NOTE:
 -Leave the HEAD and TAIL of the code untouched.
 -Name of the functions/variables must remain unchanged.
 </pre>
+<br>
+<p>Sample Input 0</p>
+<pre>
+14
+1 2
+1 3
+4
+3
+2
+4
+3
+2
+4
+3
+2
+4
+3
+</p>
+<br>
+<p>Sample Output 0</p>
+<pre>
+3
+3 2 1
+2
+2 1
+1
+1
+Invalid
+Invalid
+</pre>
 
 
 
